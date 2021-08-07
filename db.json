@@ -1,0 +1,66 @@
+{
+    "sculpture": [
+        {
+            "id": 1,
+            "name": "Frutera",
+            "image1": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/1%2F1-WEB.jpg?alt=media&token=558f9f12-c63f-446f-9e46-24f36709aa68"
+        },
+        {
+            "id": 2,
+            "name": "Ramo de crin",
+            "image1": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/2%2F2-WEB.jpg?alt=media&token=8b0bb23e-51f8-4975-8ef9-03ac0582f66c"
+        },
+        {
+            "id": 9,
+            "name": "Canasta",
+            "image1": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/9%2F9-WEB.jpg?alt=media&token=8fecd937-9f77-4b48-bd85-b1d51d89c29e"
+        }
+    ],
+    "sculptureDetails": [
+        {
+            "id": 1,
+            "name": "Frutera",
+            "author": "Desconocido",
+            "Country": "Chile",
+            "Source": "Cañete",
+            "creation_date": "2014",
+            "Technique":"Teñido de las fibras, tejido de aduja y embarrilado.",
+            "Materiality": "Manila y anilinas",
+            "audio": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/1%2Fejemplo_1.opus?alt=media&token=6b91000a-075d-489d-b22e-5c105f7c6bc5",
+            "image1": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/1%2F1-WEB.jpg?alt=media&token=558f9f12-c63f-446f-9e46-24f36709aa68",
+            "image2": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/1%2F1_2-WEB.jpg?alt=media&token=abf7bc2c-4ea8-4fb1-8993-c87822195f69",
+            "previewDescription": "Los artesanos que elaboran cestas y otras piezas similares se dedican a la cestería. Para su proceso de tejido se emplean fibras de origen vegetal que dependen de la diversidad de especies botánicas de cada territorio. Esta actividad ha sido definida en ocasiones a partir de una idea: la naturaleza transformada en arte.",
+            "detailDescription": "La profesión de cestero o canastero En el proceso de elaboración el cestero tiene que conseguir previamente la materia prima necesaria, normalmente mimbre, junco, caña, heno o paja de cereales. En la siguiente fase se van creando las tiras vegetales y luego se remojan en agua para que sean más suaves a la hora de manipularlas cuando estén secas. Con las mismas tiras se monta una estructura inicial o base y seguidamente se empieza a tejar amarrando las diferentes piezas de manera entrelazada. Se trata de un proceso artesanal que se realiza normalmente de manera manual. Existen varias técnicas, como el tejido simple, el tejido doble o el bordón de tres varas. Hay que indicar que algunas cestas llevan incorporadas unas asas para que puedan ser agarradas con las manos."
+        },
+        {
+            "id": 2,
+            "name": "Ramo de crin",
+            "author": "Desconocido",
+            "Country": "Chile",
+            "Source": "Quinta Normal, Santiago",
+            "creation_date": "2015",
+            "Technique":"Teñido de fibras, entramado simple circular.",
+            "Materiality": "Crin y anilina",
+            "audio": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/2%2FEJEMPLO%202.opus?alt=media&token=3bc2af1c-ee15-4faf-be33-682ec041cb4e",
+            "image1": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/2%2F2-WEB.jpg?alt=media&token=8b0bb23e-51f8-4975-8ef9-03ac0582f66c",
+            "image2": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/2%2F2_APP.jpg?alt=media&token=1cb1601b-87e3-4251-be22-9a1a7b3233d4",
+            "previewDescription": "Rari es conocido en Chile por sus figuras de artesanía en crin, siendo única en el mundo. La tradición oral dice que el arte de tejer en crín de caballo tiene más de 200 años de historia. Este oficio se ha mantenido casi intacto en el tiempo y una de las razones que ha dado origen a este oficio ha sido gracias al relativo aislamiento geográfico de Rari. Las artesanas de la localidad trabajan el crin de caballo de color natural o teñido, y también combinado con el ixtle, fibra vegetal proveniente de México, que se emplea para dar firmeza a la estructura del tejido. La técnica consiste en el entramado de las fibras de crin en torno a las de ixtle, que se disponen en la urdimbre. Las únicas herramientas empleadas son las manos y la aguja para las terminaciones.",
+            "detailDescription": "Inicialmente, se usaron raíces de álamo para elaborar estas pequeñas figuras, que luego fueron reemplazadas por las hebras de crin, y actualmente son acompañadas por el ixtle, que se usa para elaborar hilos bases donde se entrelazan los hilos de crin, teñidos de vivos colores. Los objetos que se elaboran son: sombreros, canastillos, mariposas, rosarios, flores, pulseras, anillos etc. La materialidad del trabajo, y sus características de tejido la hacen una artesanía única en el mundo. Existen más de 300 figuras diferentes que las Artesanas maestras de Rari son capaces de crear, y este número siempre esta en aumento debido a la creatividad de las mismas y las demandas de los clientes. La Artesanía en Crin de Rari se exporta a todo el mundo, siendo Europa uno de los principales clientes, pues son quienes valoran más el trabajo detrás de cada figura."
+        },      
+        {
+            "id": 9,
+            "name": "Canasta",
+            "author": "Desconocido",
+            "Country": "Chile",
+            "Source": "Puerto Saavedra",
+            "creation_date": "2015",
+            "Technique":"Tejido de aduja y entrelazado",
+            "Materiality": "Mimbre, manila, junquillo",
+            "audio": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/9%2Fejemplo_1.opus?alt=media&token=57e05c56-1489-43c7-a742-c2dc290d5d65",
+            "image1": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/9%2F9-WEB.jpg?alt=media&token=8fecd937-9f77-4b48-bd85-b1d51d89c29e",
+            "image2": "https://firebasestorage.googleapis.com/v0/b/museodelmundo-f4926.appspot.com/o/9%2F9_APP.jpg?alt=media&token=0937d0a7-de3e-4c67-a58e-7912a18d1c11",
+            "previewDescription": "Los artesanos que elaboran cestas y otras piezas similares se dedican a la cestería. Para su proceso de tejido se emplean fibras de origen vegetal que dependen de la diversidad de especies botánicas de cada territorio. Esta actividad ha sido definida en ocasiones a partir de una idea: la naturaleza transformada en arte.",
+            "detailDescription": "La profesión de cestero o canastero. En el proceso de elaboración el cestero tiene que conseguir previamente la materia prima necesaria, normalmente mimbre, junco, caña, heno o paja de cereales. En la siguiente fase se van creando las tiras vegetales y luego se remojan en agua para que sean más suaves a la hora de manipularlas cuando estén secas. Con las mismas tiras se monta una estructura inicial o base y seguidamente se empieza a tejar amarrando las diferentes piezas de manera entrelazada. Se trata de un proceso artesanal que se realiza normalmente de manera manual. Existen varias técnicas, como el tejido simple, el tejido doble o el bordón de tres varas. Hay que indicar que algunas cestas llevan incorporadas unas asas para que puedan ser agarradas con las manos."
+        }
+    ]
+}
